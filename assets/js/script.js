@@ -196,7 +196,7 @@
 
         var myOptions = {
 
-            zoom: 15,
+            zoom: 12,
             center: new google.maps.LatLng(37.828285, -122.372593), //change the coordinates
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             scrollwheel: false,
